@@ -5,7 +5,7 @@ import ImageGallery from '../components/ImageGallery';
 const Home = () => {
   return (
     <div>
-      <h1>Image Search</h1>
+      <h1>Pictography</h1>
       <Search />
       <ImageGallery />
     </div>
