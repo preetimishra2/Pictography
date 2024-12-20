@@ -8,7 +8,7 @@ const App = () => {
     <ImageProvider>
       <Router>
         <Routes>
-          <Route path="/Image-Search-App" element={<Home />} />
+          <Route path="/Pictography" element={<Home />} />
         </Routes>
       </Router>
     </ImageProvider>
